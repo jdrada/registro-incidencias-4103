@@ -1,33 +1,30 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
+title: "[BUG]"
+labels: bug
 assignees: ''
 
 ---
 
-**TÍTULO:**
-[Título descriptivo del defecto]
-
-**COMPORTAMIENTO ESPERADO:**
+## **COMPORTAMIENTO ESPERADO:**
 [Descripción del comportamiento esperado]
 
-**COMPORTAMIENTO ACTUAL:**
+## **COMPORTAMIENTO ACTUAL:**
 [Descripción del comportamiento actual]
 
-**PASOS PARA REPRODUCIR DEFECTO:**
+## **PASOS PARA REPRODUCIR DEFECTO:**
 1. [Paso 1: Detalle los pasos necesarios para reproducir el defecto, incluyendo datos utilizados si es relevante.]
 2. [Paso 2: Detalle los pasos necesarios para reproducir el defecto, incluyendo datos utilizados si es relevante.]
 3. [Paso 3: Detalle los pasos necesarios para reproducir el defecto, incluyendo datos utilizados si es relevante.]
 
-**EVIDENCIAS:**
+## **EVIDENCIAS:**
 https://youtu.be/IoAGDzaa18I
 
-**CONTEXTO:**
+## **CONTEXTO:**
 - **Versión de la app:** Ghost v5.69.0
-- **Sistema operativo:** macOS 14.0 (23A344) []
+- **Sistema operativo:** macOS 14.0 (23A344) 
 - **Navegador (nombre y versión):** Chrome 117.0.5938.149 (Official Build) (arm64)
 
-**INFORMACIÓN ADICIONAL:**
+## **INFORMACIÓN ADICIONAL:**
 [Proporcione cualquier información adicional relevante, como trazas de error, defectos similares ya reportados, posibles soluciones o implementaciones, o enlaces a recursos externos que puedan brindar más detalles sobre el defecto.]
